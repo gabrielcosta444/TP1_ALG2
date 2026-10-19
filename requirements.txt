@@ -1,0 +1,10 @@
+dash>=4.4,<5.0
+dash-ag-grid>=35.3,<36.0
+dash-extensions>=2.0,<3.0
+dash-leaflet>=1.1,<2.0
+osmnx>=2.0,<3.0
+pyproj>=3.7,<4.0
+pytest>=8.0,<10.0
+shapely>=2.0,<3.0
+-e .
+

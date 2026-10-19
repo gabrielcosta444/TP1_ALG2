@@ -1,0 +1,5 @@
+seed,courier_count,standard_deviation_m,restaurant_id,radius_km,prefix_length,prefixes_visited,candidates,matches,elapsed_ms
+42,1000,800.0,1270,0.5,6,9,17,1,0.505100
+42,1000,800.0,1270,1.0,5,9,387,6,0.614600
+42,1000,800.0,1270,2.0,5,9,387,35,0.604400
+42,1000,800.0,1270,5.0,4,9,1000,188,1.377900
